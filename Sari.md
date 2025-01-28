@@ -43,7 +43,7 @@ me.say_hi()
 
 ## My Interests 🌈✨
 
-- 🐶😺 **Pets**: I love my nephew's cat, Kurco, and my dog daughter, Tina.
+- 🐶😺 **Pets**: I love my nephew cat, Kurco, and my dog daughter, Tina.
 - 🌿 **Plants**: Myosotis is my favorite flower.  
 - 🧬 **Proteins**: Not in the way gym bros do.  
 - ☕ **Coffee**: The fuel of my life.  
